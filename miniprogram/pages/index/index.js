@@ -48,9 +48,10 @@ Page({
       name: 'getFood',
       data: {},
       success: res => {
+        // res.result.userInfo.appId
         wx.showModal({
           title: '今天吃？',
-          content: res.result.userInfo.appId,
+          content: '饺子',
           showCancel: false,
           success (res) {
             if (res.confirm) {
