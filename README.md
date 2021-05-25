@@ -13,6 +13,7 @@ QD吃啥可以将自己想到的食物录制到小程序里，然后点击按钮
 
 封面图
 ==============
+![WX20210525-234422](https://user-images.githubusercontent.com/21008041/119530678-d1b59280-bdb5-11eb-82cb-f1f669f2008e.png)
 
 作品类型：
 ==============
@@ -29,3 +30,4 @@ QD吃啥可以将自己想到的食物录制到小程序里，然后点击按钮
 
 体验二维码：
 ==============
+![DElDke3GLTAZxgh7](https://user-images.githubusercontent.com/21008041/119530791-ec880700-bdb5-11eb-8ae1-3b5b7740152e.jpg)
