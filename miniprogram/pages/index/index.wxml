@@ -1,0 +1,16 @@
+<!--index.wxml-->
+<view class="container">
+
+  <!-- 用户 openid -->
+  <view class="userinfo">
+    <block wx:if="{{canIUseOpenData}}" class="userinfo-opendata">
+      <view class="userinfo-block-avatar" bindtap="bindViewTap">
+        <open-data type="userAvatarUrl"></open-data>
+      </view>
+    </block>
+  </view>
+
+  <!-- 云函数按钮 -->
+  <button class="eat-button" bindtap="onGetOpenid">吃啥</button>
+
+</view>
